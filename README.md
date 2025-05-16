@@ -4,7 +4,13 @@
 
 ## Resumo Profissional
 
-Profissional com 8 anos de experiência em tecnologia, sendo 5 deles focados em bancos de dados. Especialista em SQL e gestão de bancos de dados Oracle, com histórico de aumento de eficiência em mais de 70% e redução de custos em 80% através de automação de processos. Com experiência em migração de dados para plataformas como Smart Plant Instrumentation, desenvolvimento de scripts avançados e liderança de projetos, já contribui com grandes empresas como a Petrobras.
+Engenheira de Dados com 6 anos de experiência em tecnologia da informação, sendo 4 anos dedicados à engenharia e arquitetura de dados em ambientes corporativos de grande porte, como a 
+Petrobras. Especialista em modelagem relacional e dimensional, desenvolvimento de processos ETL, automação de pipelines e otimização de performance com uso avançado de PL/SQL, T-SQL e Python. 
+Sólida atuação em projetos de migração, integração e governança de dados, com entregas que geraram até 80% de redução de custos e 70% de ganho em eficiência operacional. 
+
+Experiência prática com ferramentas e tecnologias como Oracle, SQL Server, PostgreSQL, Pentaho, Airflow, Spark, BigQuery e Cloud Composer. Forte domínio de soluções em nuvem (GCP e AWS) e visualização de dados com Power BI e Looker Studio. 
+
+Perfil colaborativo, com visão analítica e foco em resultados, além de experiência docente em disciplinas técnicas como Programação Web, Processamento de Imagens e Reconhecimento de Padrões. Busca constante por inovação e boas práticas em engenharia de dados, com interesse em atuar em times multidisciplinares, data-driven e voltados para soluções escaláveis e de alto impacto.
 
 ## Formação Acadêmica
 
@@ -12,19 +18,31 @@ Profissional com 8 anos de experiência em tecnologia, sendo 5 deles focados em 
 - **Mestre em Ciência da Computação** | Universidade Federal de Uberlândia, 2019
 - **MBA em Engenharia e Ciência de Dados** | UNIESP João Pessoa, 2024 (em andamento)
 
+## Projetos Recentes
+-  [Data Warehouse – Análise de Acidentes de Trânsito no Brasil](https://github.com/jessdivaloper/analise_dados_UNIESP_MBA):
+   - Pentaho Data Integration
+   - Python - Pandas
+   - PostgreSQL
+   - Power BI
+-  [Data Warehouse – ETL e Comissionamento para Marketplace em Google Cloud Platform](https://github.com/jessdivaloper/analise_dados_UNIESP_MBA)
+   - Google Cloud Platform (GCP) - BigQuery, Cloud Storage, Cloud Composer, Looker Studio
+   - Python
+   - PySpark
+   - Airflow
+
+
 ## Habilidades Técnicas
 
 - **Bancos de Dados**: SQL, PL/SQL, T-SQL, Oracle, PostgreSQL, SQL Server
-- **Ferramentas de Nuvem**: AWS (Athena, Glue, S3), GCP (BigQuery)
+- **Ferramentas de Nuvem**: GCP (BigQuery, Cloud Composer, DataFlow, Looker Studio, Clod Storage), AWS(Redshift)
 - **Orquestração de Tarefas**: Airflow
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, Bootstrap, .NET, PHP
-- **Linguagens**: Python, C, C#, C++, Java
-- **Outras Ferramentas**: Docker, Git, Jira, Pandas, Numpy, PySpark, Spark, Scikit-learn
+- **Linguagens**: Python
+- **Outras Ferramentas**: Docker, Git, Pandas, Numpy, PySpark, Spark
 
 ## Idiomas
 
 - Português: Fluente
-- Inglês: Intermediário
+- Inglês: Intermediário (B2)
 
 ## 🛠️ Ferramentas e Tecnologias
 <p align="left"> 
@@ -49,5 +67,5 @@ Profissional com 8 anos de experiência em tecnologia, sendo 5 deles focados em 
 **jessicanaiara.sistemas@gmail.com**
 
 [![Gmail Badge](https://img.shields.io/badge/-jessicanaiara.sistemas@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicanaiara.sistemas@gmail.com)](mailto:{jessicanaiara.sistemas@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-jessdivaloper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-naiara-farias/)](https://www.linkedin.com/in/jessica-naiara-farias/)
+[![Linkedin: Jessica](https://img.shields.io/badge/-jessdivaloper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-naiara-farias/)](https://www.linkedin.com/in/jessica-naiara-farias/)
 <br><br>
