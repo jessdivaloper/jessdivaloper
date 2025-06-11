@@ -24,7 +24,7 @@ Perfil colaborativo, com visão analítica e foco em resultados, além de experi
    - Python - Pandas
    - PostgreSQL
    - Power BI
--  [Data Warehouse – ETL e Comissionamento para Marketplace em Google Cloud Platform](https://github.com/jessdivaloper/analise_dados_UNIESP_MBA)
+-  [Data Warehouse – ETL e Comissionamento para Marketplace em Google Cloud Platform]([https://github.com/jessdivaloper/analise_dados_UNIESP_MBA](https://github.com/jessdivaloper/marketplace-data-analysis))
    - Google Cloud Platform (GCP) - BigQuery, Cloud Storage, Cloud Composer, Looker Studio
    - Python
    - PySpark
