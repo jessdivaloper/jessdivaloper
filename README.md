@@ -57,8 +57,13 @@ Perfil colaborativo, com visão analítica e foco em resultados, além de experi
 ## Badges
 Credly Badges:  https://www.credly.com/users/jessica-farias.72b4f2f6
 
-[![Google Cloud Computing Foundations Certificate](1.jpg)]([URL_DO_LINK](https://www.credly.com/users/jessica-farias.72b4f2f6))
-[![AWS Educate Getting Started with Databases](2.jpg)]([URL_DO_LINK](https://www.credly.com/users/jessica-farias.72b4f2f6))
+<a href="https://www.credly.com/users/jessica-farias.72b4f2f6">
+  <img src="1.jpg" alt="Google Cloud Computing Foundations Certificate" width="200">
+</a>
+<a href="https://www.credly.com/users/jessica-farias.72b4f2f6">
+  <img src="2.jpg" alt="AWS Educate Getting Started with Databases" width="200">
+</a>
+
 
 
 ## 📫 Contato
