@@ -1,6 +1,6 @@
 <h1> Jéssica Farias</h1>
 
- <p>💻 Engenheira de Dados | 🌍 A passionate data analyst from Brazil | 💻 Data Engineer </p>
+ <p>💻 Engenheira de Dados | 💻 Data Engineer </p>
 
 ## Resumo Profissional
 
